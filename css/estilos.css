@@ -18,3 +18,9 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#cabecera{
+    background-color:greenyellow;
+    color: white;
+    font-weight: bold;
+}
